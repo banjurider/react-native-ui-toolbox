@@ -1,5 +1,5 @@
 import TextBoxes from "./textBoxes";
 
-const Components = { TextBoxes };
+const Components = { TextBoxes: TextBoxes };
 
 export default Components;
